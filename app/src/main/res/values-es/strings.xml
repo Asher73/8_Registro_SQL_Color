@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registro SQL</string>
+    <string name="email">Correo Electronico</string>
+    <string name="contra">Contraseña</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="numero">Numero Telefonico</string>
+    <string name="titulo">App Registro</string>
+    <string name="title_activity_main_registro">Registro</string>
+    <string name="action_settings">Settings</string>
+</resources>

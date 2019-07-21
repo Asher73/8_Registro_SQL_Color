@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQL Registry</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">App Registry</string>
+    <string name="nombre">Full Name</string>
+    <string name="contra">Password</string>
+    <string name="numero">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="title_activity_main_registro">Registry</string>
+</resources>
